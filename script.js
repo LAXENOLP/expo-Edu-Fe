@@ -54,9 +54,9 @@ const stagesData = {
 
     1: {
         fotos: [
-            "assets/biblia.jfif",
-            "assets/juan.jfif",
-            "assets/apokalypsis.jfif"
+            "biblia.jfif",
+            "juan.jfif",
+            "apokalypsis.jfif"
         ],
 
         descripciones: [
@@ -77,9 +77,9 @@ const stagesData = {
 
     2: {
         fotos: [
-            "assets/4 jinetes.jpg",
-            "assets/7 sellos.jpg",
-            "assets/7 trompetas.png"
+            "4 jinetes.jpg",
+            "7 sellos.jpg",
+            "7 trompetas.png"
         ],
 
         descripciones: [
@@ -100,9 +100,9 @@ const stagesData = {
 
     3: {
         fotos: [
-            "assets/juicio final.jpg",
-            "assets/nueva jerusalem.jpg",
-            "assets/bien vs mal.jfif"
+            "juicio final.jpg",
+            "nueva jerusalem.jpg",
+            "bien vs mal.jfif"
         ],
 
         descripciones: [
